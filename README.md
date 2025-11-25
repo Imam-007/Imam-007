@@ -1,107 +1,120 @@
-# 👋 Hi, I’m **Md Imam**
-### Software Development Engineer | Java Backend | Microservices | Kafka | Distributed Systems  
-📍 Hyderabad, India  
+
+<!-- Premium Typing Intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+MD+IMAM;Software+Engineer;Microservices+%7C+Kafka+%7C+Spring+Boot;Distributed+Backend+Enthusiast;900%2B+LeetCode+Problems+Solved" alt="Typing SVG"/>
+</h1>
+
+<br>
+
+<!-- Premium Banner or Avatar -->
+<p align="center">
+  <img src="https://github.com/mdimam.png" width="180" style="border-radius: 50%; box-shadow: 0px 0px 20px #0ff;" />
+</p>
+
+<h3 align="center">Backend Engineer • Distributed Systems • Java Developer</h3>
 
 ---
 
-## 🚀 About Me  
-I’m a Software Development Engineer specializing in **Java, Spring Boot, Microservices, Kafka, and High-performance backend systems**.  
-I love building **scalable architectures**, optimizing distributed flows, and solving complex engineering challenges.
-
-I have experience working on:  
-- High-traffic microservices  
-- Event-driven distributed systems  
-- Media processing pipelines (FFmpeg, libvips)  
-- Real-time analytics  
-- Distributed caching & reliability engineering  
+# 🔗 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-imam-9bb09821b/"><img src="https://skillicons.dev/icons?i=linkedin" width="55"/></a>
+  <a href="mailto:imimam8409@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="55"/></a>
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# ⚡ Tech Stack
 
-### **Languages**
-- Java, Kotlin, JavaScript, C  
+## 🟦 Backend & Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=java" height="50" />
+  <img src="https://skillicons.dev/icons?i=spring" height="50" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="50" />
+  <img src="https://skillicons.dev/icons?i=redis" height="50" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" />
+</p>
 
-### **Frameworks & Technologies**
-- Spring Boot, Microservices  
-- Kafka, Redis  
-- Hibernate/JPA  
-- React.js, Tailwind CSS, Thymeleaf  
-- FFmpeg, libvips  
+## 🎨 Frontend & UI
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
+</p>
 
-### **Databases & Tools**
-- PostgreSQL  
-- Git, GitHub  
-- Docker, Kubernetes (CronJobs)  
-- Postman  
-- Materialized Views  
+## 🛠 DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker" height="50" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" />
+  <img src="https://skillicons.dev/icons?i=postman" height="50" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" />
+</p>
 
-### **Core Concepts**
-- System Design  
-- REST APIs  
-- Event-Driven Architecture  
-- Data Structures & Algorithms  
-
----
-
-## 💼 Experience
-
-### **Software Development Engineer — Amazon (BCT Consulting)**  
-📅 *Sep 2025 – Present*  
-- Optimized digital ordering workflows across **29+ categories**, reducing latency by **20–25%**.  
-- Improved fault tolerance using **retries, idempotency safeguards, and real-time monitoring**, reducing escalations by **30%**.  
-
-### **Software Development Engineer — MountBlue Technologies**  
-📅 *Jul 2024 – Aug 2025*  
-- Re-architected a Spring Boot microservice using **Kafka + Redis**, improving throughput by **35%**.  
-- Built a high-performance media pipeline with **FFmpeg + libvips**, reducing thumbnail generation time by **50%**.  
-- Improved analytics performance by **40%** using PostgreSQL Materialized Views and automated scheduling tools.  
+## 🎬 Media Processing
+<p>
+  <img src="https://img.shields.io/badge/FFmpeg-0A7D0A?style=for-the-badge&logo=ffmpeg&logoColor=white" />
+  <img src="https://img.shields.io/badge/libvips-444444?style=for-the-badge" />
+</p>
 
 ---
 
-## 🧩 Projects
+# 🏢 Experience
 
-### 🔹 **Money Mate**  
-*Spring Boot • PostgreSQL • Apache POI • JavaMail • React.js • Tailwind CSS*  
-- Integrated **Spring Security + JWT** with email verification, reducing unauthorized access by **90%**.  
-- Designed optimized analytics APIs with advanced filters, improving reporting by **40%**.  
-- Developed automated Excel & email reporting system, saving users **10+ hours/month**.  
+## 💼 Amazon (BCT Consulting) — SDE  
+📆 *2025 – Present*  
+- Optimized digital order workflows across **29+ categories**, cutting latency **20–25%**  
+- Improved system reliability with advanced retries, idempotency & monitoring  
+- Result: **30% reduction in operational escalations**
 
-### 🔹 **Shortly**  
-*Spring Boot • Spring Security • JWT • Redis • PostgreSQL • React.js*  
-- Production-grade **URL Shortener** with secure role-based authentication.  
-- Implemented click-tracking analytics improving user engagement visibility by **30%**.  
-- Added Redis caching to reduce analytics response time from **seconds → milliseconds**.  
-
----
-
-## 🎓 Education  
-- **B.Tech in Computer Science** — CGPA: 8.7  
-  *Maulana Azad National Urdu University, Hyderabad (2021–2024)*  
-- **Diploma in Computer Science** — CGPA: 9.7  
-  *MANUU, Hyderabad (2018–2021)*  
+## 💼 MountBlue Technologies — SDE  
+📆 *2024 – 2025*  
+- Rebuilt microservice using **Kafka + Redis** → throughput **+35%**  
+- Media pipeline (FFmpeg + libvips) → thumbnail time **-50%**  
+- PostgreSQL materialized views → analytics **+40% faster**
 
 ---
 
-## 📈 Interests  
-- Distributed Systems  
-- System Design  
-- Kafka & Event Streaming  
-- High-performance Backend Engineering  
-- Video Processing (FFmpeg, libvips)  
+# 🚀 Featured Projects
+
+## 🔹 **Money Mate**
+**Tech:** Spring Boot, PostgreSQL, JWT, Apache POI, React  
+- Secure finance platform with email verification (security ↑ 90%)  
+- Advanced analytics APIs (performance ↑ 40%)  
+- Auto-reporting system using Excel & HTML emails (saves 10+ hrs/month)
+
+## 🔹 **Shortly**
+**Tech:** Spring Boot, Redis, JWT, PostgreSQL, React  
+- Production URL shortener with role-based auth  
+- Redis caching → analytics **ms-level** speed  
+- Click-tracking improved engagement insight **+30%**
 
 ---
 
-## 📬 Connect with Me  
-- **LinkedIn:** *Add your link here*  
-- **LeetCode:** *Add your link here*  
-- **GitHub:** https://github.com/mdimam  
-- **Email:** imimam8409@gmail.com  
+# 📊 GitHub Analytics
+
+## 🔥 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdimam&theme=react-dark&area=true&hide_border=true"/>
+</p>
+
+## ⚡ GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdimam&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdimam&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mdimam&theme=tokyonight&hide_border=true" height="190"/>
+</p>
 
 ---
 
-## ⭐ Fun Fact  
-I’ve solved **700+ problems on LeetCode**, and I enjoy building things that scale!
+# 🎯 Fun Fact
+✨ I’ve solved **900+ LeetCode problems** and love building **systems that scale elegantly**.
 
 ---
 
+# 🏁 Thanks for Visiting!
+<p align="center">
+  <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" width="500"/>
+</p>
