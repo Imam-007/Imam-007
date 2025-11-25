@@ -1,120 +1,103 @@
 
-<!-- Premium Typing Intro -->
+<!-- ULTRA PREMIUM 3D TYPING TITLE -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+MD+IMAM;Software+Engineer;Microservices+%7C+Kafka+%7C+Spring+Boot;Distributed+Backend+Enthusiast;900%2B+LeetCode+Problems+Solved" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+MD+IMAM;Software+Engineer+%7C+Backend+Specialist;Microservices+%7C+Kafka+%7C+Spring+Boot;Distributed+Systems+Enthusiast;900%2B+LeetCode+Problems+Solved" alt="Typing SVG"/>
 </h1>
+<!-- NEON DIVIDER -->
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
-<br>
-
-<!-- Premium Banner or Avatar -->
+# 🌐 Connect With Me
 <p align="center">
-  <img src="https://github.com/mdimam.png" width="180" style="border-radius: 50%; box-shadow: 0px 0px 20px #0ff;" />
-</p>
-
-<h3 align="center">Backend Engineer • Distributed Systems • Java Developer</h3>
-
----
-
-# 🔗 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/md-imam-9bb09821b/"><img src="https://skillicons.dev/icons?i=linkedin" width="55"/></a>
-  <a href="mailto:imimam8409@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="55"/></a>
+  <a href="https://www.linkedin.com/in/md-imam-9bb09821b/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+  </a>
+  <a href="https://leetcode.com/u/Imam_007/">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="50" style="filter: invert(78%) sepia(93%) saturate(747%) hue-rotate(359deg) brightness(102%) contrast(105%);" />
+  </a>
+  <a href="mailto:imimam8409@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
+  </a>
 </p>
 
 ---
-
 # ⚡ Tech Stack
 
-## 🟦 Backend & Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=java" height="50" />
-  <img src="https://skillicons.dev/icons?i=spring" height="50" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="50" />
-  <img src="https://skillicons.dev/icons?i=redis" height="50" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" />
+### 🟦 Backend & Distributed Systems
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="60"/>
+  <img src="https://skillicons.dev/icons?i=spring" height="60"/>
+  <img src="https://skillicons.dev/icons?i=kafka" height="60"/>
+  <img src="https://skillicons.dev/icons?i=redis" height="60"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="60"/>
 </p>
 
-## 🎨 Frontend & UI
-<p>
-  <img src="https://skillicons.dev/icons?i=react" height="50" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" />
+### 🎨 Frontend & UI
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react" height="60"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60"/>
 </p>
 
-## 🛠 DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker" height="50" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="50" />
-  <img src="https://skillicons.dev/icons?i=postman" height="50" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" />
+### 🛠 DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker" height="60"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="60"/>
+  <img src="https://skillicons.dev/icons?i=postman" height="60"/>
+  <img src="https://skillicons.dev/icons?i=git" height="60"/>
+  <img src="https://skillicons.dev/icons?i=github" height="60"/>
 </p>
 
-## 🎬 Media Processing
-<p>
-  <img src="https://img.shields.io/badge/FFmpeg-0A7D0A?style=for-the-badge&logo=ffmpeg&logoColor=white" />
-  <img src="https://img.shields.io/badge/libvips-444444?style=for-the-badge" />
+### 🎬 Media & Image Processing
+<p align="center">
+  <img src="https://img.shields.io/badge/FFmpeg-0A7D0A?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
+  <img src="https://img.shields.io/badge/libvips-444444?style=for-the-badge"/>
 </p>
 
 ---
 
 # 🏢 Experience
 
-## 💼 Amazon (BCT Consulting) — SDE  
-📆 *2025 – Present*  
-- Optimized digital order workflows across **29+ categories**, cutting latency **20–25%**  
-- Improved system reliability with advanced retries, idempotency & monitoring  
-- Result: **30% reduction in operational escalations**
-
-## 💼 MountBlue Technologies — SDE  
-📆 *2024 – 2025*  
-- Rebuilt microservice using **Kafka + Redis** → throughput **+35%**  
-- Media pipeline (FFmpeg + libvips) → thumbnail time **-50%**  
-- PostgreSQL materialized views → analytics **+40% faster**
+## 💼 Amazon (BCT Consulting) — Software Development Engineer  
+📆 **Sep 2025 – Present**  
+- Optimized digital workflows across **29+ categories**, cutting latency **20–25%**  
+- Improved system reliability with retries, idempotency & monitoring  
+- Result → **30% fewer operational escalations**
 
 ---
 
+## 💼 MountBlue Technologies — Software Development Engineer  
+📆 **July 2024 – Aug 2025**  
+- Rebuilt microservice using **Kafka + Redis**, boosting throughput **35%**  
+- Media pipeline using FFmpeg + libvips → thumbnail generation **50% faster**  
+- Materialized Views → analytics **40% faster**
+
+---
 # 🚀 Featured Projects
 
-## 🔹 **Money Mate**
-**Tech:** Spring Boot, PostgreSQL, JWT, Apache POI, React  
-- Secure finance platform with email verification (security ↑ 90%)  
-- Advanced analytics APIs (performance ↑ 40%)  
-- Auto-reporting system using Excel & HTML emails (saves 10+ hrs/month)
+## 🔹 Money Mate
+**Tech:** Spring Boot, PostgreSQL, JWT, POI, React  
+- Secure finance app w/ email verification → security **+90%**  
+- Analytics API optimization → **+40% speed**  
+- Automated Excel/HTML reporting → saves **10+ hrs/month**
 
-## 🔹 **Shortly**
+---
+
+## 🔹 Shortly
 **Tech:** Spring Boot, Redis, JWT, PostgreSQL, React  
-- Production URL shortener with role-based auth  
-- Redis caching → analytics **ms-level** speed  
-- Click-tracking improved engagement insight **+30%**
+- Production-grade URL Shortener  
+- Redis caching → analytics in **milliseconds**  
+- Click analytics → visibility improved **30%**
 
 ---
+# 📊  GitHub Analytics
 
-# 📊 GitHub Analytics
-
-## 🔥 Activity Graph
+##  Activity Heatmap
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdimam&theme=react-dark&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imam-007&theme=react-dark&area=true&hide_border=true"/>
 </p>
-
-## ⚡ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdimam&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdimam&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mdimam&theme=tokyonight&hide_border=true" height="190"/>
-</p>
-
----
 
 # 🎯 Fun Fact
-✨ I’ve solved **900+ LeetCode problems** and love building **systems that scale elegantly**.
+✨ I’ve solved **900+ LeetCode problems** and love building **high-performance distributed systems**.
 
 ---
 
 # 🏁 Thanks for Visiting!
-<p align="center">
-  <img src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" width="500"/>
-</p>
