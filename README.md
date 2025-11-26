@@ -1,4 +1,5 @@
 
+
 <!-- ULTRA PREMIUM 3D TYPING TITLE -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+MD+IMAM;Software+Engineer+%7C+Backend+Specialist;Microservices+%7C+Kafka+%7C+Spring+Boot;Distributed+Systems+Enthusiast;900%2B+LeetCode+Problems+Solved" alt="Typing SVG"/>
@@ -52,40 +53,6 @@
   <img src="https://img.shields.io/badge/libvips-444444?style=for-the-badge"/>
 </p>
 
----
-
-# 🏢 Experience
-
-## 💼 Amazon (BCT Consulting) — Software Development Engineer  
-📆 **Sep 2025 – Present**  
-- Optimized digital workflows across **29+ categories**, cutting latency **20–25%**  
-- Improved system reliability with retries, idempotency & monitoring  
-- Result → **30% fewer operational escalations**
-
----
-
-## 💼 MountBlue Technologies — Software Development Engineer  
-📆 **July 2024 – Aug 2025**  
-- Rebuilt microservice using **Kafka + Redis**, boosting throughput **35%**  
-- Media pipeline using FFmpeg + libvips → thumbnail generation **50% faster**  
-- Materialized Views → analytics **40% faster**
-
----
-# 🚀 Featured Projects
-
-## 🔹 Money Mate
-**Tech:** Spring Boot, PostgreSQL, JWT, POI, React  
-- Secure finance app w/ email verification → security **+90%**  
-- Analytics API optimization → **+40% speed**  
-- Automated Excel/HTML reporting → saves **10+ hrs/month**
-
----
-
-## 🔹 Shortly
-**Tech:** Spring Boot, Redis, JWT, PostgreSQL, React  
-- Production-grade URL Shortener  
-- Redis caching → analytics in **milliseconds**  
-- Click analytics → visibility improved **30%**
 
 ---
 # 📊  GitHub Analytics
@@ -99,5 +66,3 @@
 ✨ I’ve solved **900+ LeetCode problems** and love building **high-performance distributed systems**.
 
 ---
-
-# 🏁 Thanks for Visiting!
