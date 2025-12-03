@@ -1,5 +1,6 @@
 
 
+
 <!-- ULTRA PREMIUM 3D TYPING TITLE -->
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2800&pause=700&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+MD+IMAM;Software+Engineer+%7C+Backend+Specialist;Microservices+%7C+Kafka+%7C+Spring+Boot;Distributed+Systems+Enthusiast;900%2B+LeetCode+Problems+Solved" alt="Typing SVG"/>
@@ -52,17 +53,5 @@
   <img src="https://img.shields.io/badge/FFmpeg-0A7D0A?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
   <img src="https://img.shields.io/badge/libvips-444444?style=for-the-badge"/>
 </p>
-
-
----
-# 📊  GitHub Analytics
-
-##  Activity Heatmap
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Imam-007&theme=react-dark&area=true&hide_border=true"/>
-</p>
-
-# 🎯 Fun Fact
-✨ I’ve solved **900+ LeetCode problems** and love building **high-performance distributed systems**.
 
 ---
